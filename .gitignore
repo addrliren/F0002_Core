@@ -1,0 +1,17 @@
+# Keil build outputs
+MDK-ARM/main/*.d
+MDK-ARM/main/*.o
+MDK-ARM/main/*.axf
+MDK-ARM/main/*.hex
+MDK-ARM/main/*.map
+MDK-ARM/main/*.htm
+MDK-ARM/main/*.lnp
+MDK-ARM/main/*.dep
+MDK-ARM/main/*.exe
+
+# Local IDE state and machine-specific settings
+MDK-ARM/*.uvoptx
+MDK-ARM/*.uvguix.*
+MDK-ARM/.vscode/*.log*
+.vscode/settings.json
+MDK-ARM/.vscode/c_cpp_properties.json
